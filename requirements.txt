@@ -1,0 +1,10 @@
+streamlit 
+pymupdf
+nltk
+PyPDF2
+pdf2image
+pytesseract
+poppler-utils
+scikit-learn
+Office365-REST-Python-Client
+streamlit-pdf-viewer
